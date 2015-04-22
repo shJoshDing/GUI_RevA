@@ -1,0 +1,6 @@
+C:\Users\IBM-201\Desktop\OneWire_GUI_CurrentSensor_v1.6.4.RC\OneWire_GUI_CurrentSensor\DM2Y2\bin\Release\DMY2.dll
+C:\Users\IBM-201\Desktop\OneWire_GUI_CurrentSensor_v1.6.4.RC\OneWire_GUI_CurrentSensor\DM2Y2\bin\Release\DMY2.pdb
+C:\Users\IBM-201\Desktop\OneWire_GUI_CurrentSensor_v1.6.4.RC\OneWire_GUI_CurrentSensor\DM2Y2\obj\x86\Release\ADI.DMY2.Properties.Resources.resources
+C:\Users\IBM-201\Desktop\OneWire_GUI_CurrentSensor_v1.6.4.RC\OneWire_GUI_CurrentSensor\DM2Y2\obj\x86\Release\DMY2.csproj.GenerateResource.Cache
+C:\Users\IBM-201\Desktop\OneWire_GUI_CurrentSensor_v1.6.4.RC\OneWire_GUI_CurrentSensor\DM2Y2\obj\x86\Release\DMY2.dll
+C:\Users\IBM-201\Desktop\OneWire_GUI_CurrentSensor_v1.6.4.RC\OneWire_GUI_CurrentSensor\DM2Y2\obj\x86\Release\DMY2.pdb
